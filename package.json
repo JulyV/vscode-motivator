@@ -1,7 +1,7 @@
 {
     "name": "motivator",
     "displayName": "Motivator",
-    "description": "Fun extension that supports you in everyday work and inspires to develop faster higher stronger.",
+    "description": "Fun extension that supports you in everyday work and inspires to develop faster higher stronger. Press Ctrl+S and look to the status bar!",
     "version": "0.0.2",
     "publisher": "Yulia",
     "repository": {
